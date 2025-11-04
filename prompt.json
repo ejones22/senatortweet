@@ -1,252 +1,245 @@
-For each of these **nine categories**:
----
-## 🟥 1. Attack
-**Positive cues:**
-
-* Direct criticism, blame, accusation, or mockery of an opponent.
-* Mentions of another politician’s name + negative verbs/adjectives (“failed,” “shameful,” “lies,” “corrupt”).
-* Sarcasm or moral condemnation.
-
-**Near-misses:**
-
-* Policy disagreement framed civilly without personal attack → *policy*.
-* Critique of institutions (“Congress must act”) → *information*.
-
-**Example tweets:**
-
-1. Senator X voted against helping our veterans—unacceptable.
-2. The administration’s incompetence on border security is costing lives.
-3. Once again, Democrats put politics before people.
-4. Senator Y claims to care about families but blocks childcare relief.
-5. My opponent has spent a decade ignoring small businesses.
-6. This is pure hypocrisy from the same party that ballooned the deficit.
-7. The governor’s reckless policies hurt working families.
-8. Unbelievable spin from the White House—Americans deserve the truth.
-9. They lecture about unity while sowing division daily.
-10. Shameful performance today by the House majority.
-
----
-
-## 2. Constituency
-
-**Positive cues:**
-
-* Mentions of specific state, district, local communities, regional issues, or visits.
-* Local achievements, events, grants, or resources benefiting residents.
-* Use of “our state,” “my district,” local place names.
-
-**Near-misses:**
-
-* National policy that affects all states → *policy*.
-* Mobilization calls (“Join me in Baton Rouge tonight!”) → *mobilization*.
-
-**Example tweets:**
-
-1. Proud to secure $5M in infrastructure funding for Baton Rouge bridges.
-2. Honored to meet farmers in Tangipahoa Parish discussing crop insurance.
-3. Congratulations to Lafayette High on winning the robotics championship!
-4. Our coastal restoration project just broke ground—thank you, Louisiana!
-5. Joined local veterans at the Shreveport VA to discuss care improvements.
-6. Celebrating Lake Charles’ new small business incubator opening today.
-7. Our office helped hundreds recover lost FEMA benefits—call us if you need help.
-8. Working with mayors across the parish to rebuild after last year’s storm.
-9. Great turnout at the Baton Rouge town hall—thanks to everyone who came.
-10. Excited to see new jobs coming to Ascension Parish!
-
----
-
-## 3. Information
-
-**Positive cues:**
-
-* Straightforward reporting of official developments, legislation, or factual events.
-* Neutral tone, often with numbers, links, or official sources.
-* “Today,” “announced,” “signed,” “passed,” “introduced.”
-
-**Near-misses:**
-
-* Advocacy or opinion about policy → *policy*.
-* Urging supporters to act → *mobilization*.
-
-**Example tweets:**
-
-1. Today the Senate passed the Infrastructure Investment Act by a 68-32 vote.
-2. FEMA has extended disaster assistance registration through March 1.
-3. The President signed the CHIPS Act into law this afternoon.
-4. My office will be closed Monday for Veterans Day.
-5. The Committee on Energy will hold a hearing tomorrow at 10 AM.
-6. The unemployment rate fell to 3.8% in February.
-7. CDC updated its travel guidelines today—details here: [link]
-8. The Department of Education launched a new FAFSA portal.
-9. My amendment to strengthen rail safety was adopted in committee.
-10. Treasury announced new sanctions against foreign cyber actors.
-
----
-
-## 4. Media
-
-**Positive cues:**
-
-* Mentions of TV, radio, press, interviews, podcasts, op-eds.
-* “Tune in,” “watch,” “interview,” “article,” “on CNN/Fox/MSNBC.”
-* References to reporters or publications.
-
-**Near-misses:**
-
-* Promoting an event or rally → *mobilization*.
-* Summarizing news without self-involvement → *information*.
-
-**Example tweets:**
-
-1. I’ll be on @CNN at 8 PM discussing infrastructure funding—tune in!
-2. Read my op-ed in the @NYTimes on bipartisan climate action.
-3. Appreciate @NPR for highlighting our veterans’ housing bill.
-4. Catch my interview with @FoxNews this morning on energy prices.
-5. Proud to join @MeetThePress to talk about healthcare reform.
-6. Just finished a great conversation with @Politico about small business growth.
-7. Watch my appearance on @MSNBC on student loan forgiveness here: [link]
-8. Thank you to local media for covering our flood-relief efforts.
-9. Sharing my perspective on @washingtonpost’s latest analysis of inflation.
-10. Appeared on @CBSNews to discuss the upcoming budget vote.
-
----
-
-## 5. Mobilization
-
-**Positive cues:**
-
-* Calls to action: “Join us,” “Vote,” “Donate,” “Volunteer,” “Sign up,” “Share.”
-* Rally promotion, event turnout, petition requests.
-* Use of inclusive, motivational tone (“Let’s keep fighting,” “Together we can”).
-
-**Near-misses:**
-
-* Announcing event results or thanking participants → *constituency* or *personal*.
-* Discussing the importance of an issue without asking for action → *policy*.
-
-**Example tweets:**
-
-1. Join me this Saturday in Baton Rouge for our campaign kickoff!
-2. We need your voice—call your senator and demand climate action now.
-3. Early voting starts today! Make your plan to vote.
-4. Sign our petition to protect Social Security from cuts.
-5. Donate $5 to help us reach voters across Louisiana.
-6. We can win this—knock doors, make calls, get involved!
-7. Let’s stand together for reproductive rights.
-8. Retweet to spread the word: polls close at 8 PM.
-9. Volunteer shifts available this weekend—sign up here: [link]
-10. Share your story about how student debt impacts you.
-
----
-
-## 6. Personal
-
-**Positive cues:**
-
-* Emotionally expressive, sympathetic, or reflective tone.
-* Condolences, congratulations, faith, holiday greetings, family.
-* “My thoughts are with…,” “Honored,” “Proud,” “Happy birthday,” “Merry Christmas.”
-
-**Near-misses:**
-
-* Praising a policy outcome → *policy*.
-* Congratulating a political ally on a bill → *support*.
-
-**Example tweets:**
-
-1. Heartbroken by the loss of former Senator Smith. My prayers are with his family.
-2. Happy Thanksgiving to everyone celebrating with loved ones today.
-3. Grateful for another year serving the people of Louisiana.
-4. Sending strength to the communities affected by today’s tornadoes.
-5. Proud of my daughter for finishing her first marathon!
-6. Thinking of all who lost loved ones on 9/11—never forgotten.
-7. Thank you to the firefighters who risk their lives daily.
-8. Enjoying a quiet Sunday with family before returning to D.C.
-9. Wishing everyone a safe and happy Independence Day!
-10. My heart goes out to the victims of the school shooting in Nashville.
-
----
-
-## 7. Policy
-
-**Positive cues:**
-
-* Discussion of legislation, proposals, or government programs.
-* “We must pass,” “invest in,” “ensure,” “reform,” “expand.”
-* Substantive argumentation, framing issues in ideological or economic terms.
-
-**Near-misses:**
-
-* Simple announcement of bill progress → *information*.
-* Attacking someone’s policy position personally → *attack*.
-
-**Example tweets:**
-
-1. We need comprehensive immigration reform that secures the border and protects Dreamers.
-2. I’m introducing a bill to expand access to affordable childcare.
-3. Our plan will cut prescription drug costs for seniors.
-4. Climate change is the defining challenge of our generation—action can’t wait.
-5. Broadband is infrastructure; rural communities deserve high-speed internet.
-6. We must defend workers’ right to organize and earn a fair wage.
-7. No family should go bankrupt because of medical bills.
-8. Investing in renewable energy creates jobs and lowers emissions.
-9. Every child deserves a world-class education—let’s fund our schools.
-10. I support criminal-justice reform to end mandatory minimums.
-
----
-
-## 8. Support
-
-**Positive cues:**
-
-* Public endorsement or praise of another politician or organization.
-* “Proud to support,” “endorsing,” “standing with,” “grateful to work alongside.”
-* Celebratory tone referencing colleagues or campaigns.
-
-**Near-misses:**
-
-* Mutual congratulations on non-political matters → *personal*.
-* Supporting a policy idea rather than a person → *policy*.
-
-**Example tweets:**
-
-1. Proud to endorse Jane Doe for Congress—she’ll fight for working families.
-2. Standing with @SenX in the fight for reproductive freedom.
-3. Honored to receive @Union’s endorsement for re-election.
-4. Thank you @POTUS for your leadership on infrastructure.
-5. Excited to campaign alongside @RepY this weekend in Georgia.
-6. Grateful for the support of teachers across our state.
-7. Thrilled to back Governor Z’s re-election campaign.
-8. Congratulations to @SenZ on her confirmation as Secretary of Energy!
-9. I fully support the bipartisan effort led by @SenABC.
-10. Endorsing @CandidateQ—she’s the leader our district needs.
-
----
-
-## 9. Other
-
-**Positive cues:**
-
-* Off-topic, ambiguous, or humor-based content not fitting other categories.
-* Retweets without context, holiday memes, random observations.
-* Meta-Twitter content (“My mentions are wild today”).
-
-**Near-misses:**
-
-* Personal reflection with sentiment → *personal*.
-* Sharing factual news → *information*.
-
-**Example tweets:**
-
-1. Coffee count: 3. Monday is winning.
-2. Just boarded another delayed flight—D.C. here I come.
-3. Big day for the team—go Tigers!
-4. Retweeting this just because it made me laugh.
-5. Thank you to everyone who follows—appreciate the support!
-6. Nothing beats a Louisiana sunset.
-7. My staff just told me it’s National Donut Day—time to celebrate.
-8. The Capitol hallways feel emptier this week.
-9. Can’t believe it’s already August.
-10. My phone battery didn’t survive today’s hearing.
-
----
+{
+  "task": "Classify each tweet according to its primary message type.",
+  "instructions": {
+    "goal": "Assign one label from {attack, constituency, information, media, mobilization, personal, policy, support, other}.",
+    "rules": [
+      "Return exactly one label or 'ABSTAIN' if the tweet does not clearly fit any class.",
+      "Label based on the author's intent, not quoted material.",
+      "If multiple classes apply, choose the primary one according to the text’s dominant purpose."
+    ]
+  },
+  "classes": {
+    "attack": {
+      "definition": "The message attacks another politician or political party.",
+      "positive_indicators": [
+        "Negative adjectives or verbs directed at another politician or party.",
+        "Criticism, accusation, or moral condemnation.",
+        "Sarcasm or blame directed toward named political figures."
+      ],
+      "near_misses": [
+        "Policy disagreement stated neutrally (→ policy).",
+        "Institutional critique without targeting an individual (→ information)."
+      ],
+      "examples": [
+        "Senator X voted against helping our veterans—unacceptable.",
+        "The administration’s incompetence on border security is costing lives.",
+        "Once again, Democrats put politics before people.",
+        "Senator Y claims to care about families but blocks childcare relief.",
+        "My opponent has spent a decade ignoring small businesses.",
+        "This is pure hypocrisy from the same party that ballooned the deficit.",
+        "The governor’s reckless policies hurt working families.",
+        "Unbelievable spin from the White House—Americans deserve the truth.",
+        "They lecture about unity while sowing division daily.",
+        "Shameful performance today by the House majority."
+      ]
+    },
+
+    "constituency": {
+      "definition": "Discusses the politician’s constituency, local community, or state-level matters.",
+      "positive_indicators": [
+        "Mentions of local regions, towns, parishes, or state-specific issues.",
+        "Announcements of grants, visits, or constituent services.",
+        "Expressions of pride in local achievements."
+      ],
+      "near_misses": [
+        "National policy affecting all states (→ policy).",
+        "Calls to attend events or rallies (→ mobilization)."
+      ],
+      "examples": [
+        "Proud to secure $5M in infrastructure funding for Baton Rouge bridges.",
+        "Honored to meet farmers in Tangipahoa Parish discussing crop insurance.",
+        "Congratulations to Lafayette High on winning the robotics championship!",
+        "Our coastal restoration project just broke ground—thank you, Louisiana!",
+        "Joined local veterans at the Shreveport VA to discuss care improvements.",
+        "Celebrating Lake Charles’ new small business incubator opening today.",
+        "Our office helped hundreds recover lost FEMA benefits—call us if you need help.",
+        "Working with mayors across the parish to rebuild after last year’s storm.",
+        "Great turnout at the Baton Rouge town hall—thanks to everyone who came.",
+        "Excited to see new jobs coming to Ascension Parish!"
+      ]
+    },
+
+    "information": {
+      "definition": "Provides factual or procedural information about government actions or public events in a neutral tone.",
+      "positive_indicators": [
+        "Objective reporting of votes, hearings, or legislative updates.",
+        "Mentions of agencies or departments issuing statements.",
+        "Use of numbers, dates, or links to official sources."
+      ],
+      "near_misses": [
+        "Advocacy or opinionated policy discussion (→ policy).",
+        "Calls to act or donate (→ mobilization)."
+      ],
+      "examples": [
+        "Today the Senate passed the Infrastructure Investment Act by a 68-32 vote.",
+        "FEMA has extended disaster assistance registration through March 1.",
+        "The President signed the CHIPS Act into law this afternoon.",
+        "My office will be closed Monday for Veterans Day.",
+        "The Committee on Energy will hold a hearing tomorrow at 10 AM.",
+        "The unemployment rate fell to 3.8% in February.",
+        "CDC updated its travel guidelines today—details here: [link]",
+        "The Department of Education launched a new FAFSA portal.",
+        "My amendment to strengthen rail safety was adopted in committee.",
+        "Treasury announced new sanctions against foreign cyber actors."
+      ]
+    },
+
+    "media": {
+      "definition": "Highlights or promotes the politician’s interaction with media outlets or coverage in press, TV, radio, or podcasts.",
+      "positive_indicators": [
+        "Mentions of interviews, op-eds, or appearances on media programs.",
+        "References to journalists or publications.",
+        "Use of 'tune in', 'watch', 'read', or similar verbs."
+      ],
+      "near_misses": [
+        "Promotion of campaign rallies (→ mobilization).",
+        "Sharing news unrelated to self-appearance (→ information)."
+      ],
+      "examples": [
+        "I’ll be on @CNN at 8 PM discussing infrastructure funding—tune in!",
+        "Read my op-ed in the @NYTimes on bipartisan climate action.",
+        "Appreciate @NPR for highlighting our veterans’ housing bill.",
+        "Catch my interview with @FoxNews this morning on energy prices.",
+        "Proud to join @MeetThePress to talk about healthcare reform.",
+        "Just finished a great conversation with @Politico about small business growth.",
+        "Watch my appearance on @MSNBC on student loan forgiveness here: [link]",
+        "Thank you to local media for covering our flood-relief efforts.",
+        "Sharing my perspective on @washingtonpost’s latest analysis of inflation.",
+        "Appeared on @CBSNews to discuss the upcoming budget vote."
+      ]
+    },
+
+    "mobilization": {
+      "definition": "Aims to mobilize supporters to act, attend, volunteer, donate, or vote.",
+      "positive_indicators": [
+        "Direct calls to action (join, vote, volunteer, donate, sign).",
+        "Inclusive motivational tone.",
+        "Promotion of campaign or advocacy events."
+      ],
+      "near_misses": [
+        "Reporting event results (→ constituency).",
+        "General policy discussion without action request (→ policy)."
+      ],
+      "examples": [
+        "Join me this Saturday in Baton Rouge for our campaign kickoff!",
+        "We need your voice—call your senator and demand climate action now.",
+        "Early voting starts today! Make your plan to vote.",
+        "Sign our petition to protect Social Security from cuts.",
+        "Donate $5 to help us reach voters across Louisiana.",
+        "We can win this—knock doors, make calls, get involved!",
+        "Let’s stand together for reproductive rights.",
+        "Retweet to spread the word: polls close at 8 PM.",
+        "Volunteer shifts available this weekend—sign up here: [link]",
+        "Share your story about how student debt impacts you."
+      ]
+    },
+
+    "personal": {
+      "definition": "Expresses personal emotions, sympathy, gratitude, or reflections unrelated to policy or campaigns.",
+      "positive_indicators": [
+        "Condolences, congratulations, or emotional reflections.",
+        "Holiday greetings or family mentions.",
+        "Expressions of empathy or personal gratitude."
+      ],
+      "near_misses": [
+        "Praising a policy outcome (→ policy).",
+        "Congratulating a colleague for political success (→ support)."
+      ],
+      "examples": [
+        "Heartbroken by the loss of former Senator Smith. My prayers are with his family.",
+        "Happy Thanksgiving to everyone celebrating with loved ones today.",
+        "Grateful for another year serving the people of Louisiana.",
+        "Sending strength to the communities affected by today’s tornadoes.",
+        "Proud of my daughter for finishing her first marathon!",
+        "Thinking of all who lost loved ones on 9/11—never forgotten.",
+        "Thank you to the firefighters who risk their lives daily.",
+        "Enjoying a quiet Sunday with family before returning to D.C.",
+        "Wishing everyone a safe and happy Independence Day!",
+        "My heart goes out to the victims of the school shooting in Nashville."
+      ]
+    },
+
+    "policy": {
+      "definition": "Advocates or explains political policy positions, legislation, or reforms.",
+      "positive_indicators": [
+        "Discussion of bills, reforms, or proposals.",
+        "Substantive argumentation about public policy goals.",
+        "Use of verbs like 'reform', 'expand', 'ensure', 'invest'."
+      ],
+      "near_misses": [
+        "Plainly reporting legislative progress (→ information).",
+        "Personal attack while referencing policy (→ attack)."
+      ],
+      "examples": [
+        "We need comprehensive immigration reform that secures the border and protects Dreamers.",
+        "I’m introducing a bill to expand access to affordable childcare.",
+        "Our plan will cut prescription drug costs for seniors.",
+        "Climate change is the defining challenge of our generation—action can’t wait.",
+        "Broadband is infrastructure; rural communities deserve high-speed internet.",
+        "We must defend workers’ right to organize and earn a fair wage.",
+        "No family should go bankrupt because of medical bills.",
+        "Investing in renewable energy creates jobs and lowers emissions.",
+        "Every child deserves a world-class education—let’s fund our schools.",
+        "I support criminal-justice reform to end mandatory minimums."
+      ]
+    },
+
+    "support": {
+      "definition": "Expresses endorsement or praise for another politician, organization, or campaign.",
+      "positive_indicators": [
+        "Endorsement or support statements ('proud to support', 'standing with').",
+        "Mentions of cooperation or teamwork with colleagues.",
+        "Gratitude toward political allies."
+      ],
+      "near_misses": [
+        "Non-political congratulations (→ personal).",
+        "Supporting a policy proposal rather than a person (→ policy)."
+      ],
+      "examples": [
+        "Proud to endorse Jane Doe for Congress—she’ll fight for working families.",
+        "Standing with @SenX in the fight for reproductive freedom.",
+        "Honored to receive @Union’s endorsement for re-election.",
+        "Thank you @POTUS for your leadership on infrastructure.",
+        "Excited to campaign alongside @RepY this weekend in Georgia.",
+        "Grateful for the support of teachers across our state.",
+        "Thrilled to back Governor Z’s re-election campaign.",
+        "Congratulations to @SenZ on her confirmation as Secretary of Energy!",
+        "I fully support the bipartisan effort led by @SenABC.",
+        "Endorsing @CandidateQ—she’s the leader our district needs."
+      ]
+    },
+
+    "other": {
+      "definition": "Tweets that do not fit any of the above categories; often informal, humorous, or off-topic.",
+      "positive_indicators": [
+        "Non-political content or casual observations.",
+        "Humor, memes, or personal remarks without clear political intent.",
+        "Meta-social posts or generic engagement thanks."
+      ],
+      "near_misses": [
+        "Personal sentiment or sympathy (→ personal).",
+        "Sharing factual news (→ information)."
+      ],
+      "examples": [
+        "Coffee count: 3. Monday is winning.",
+        "Just boarded another delayed flight—D.C. here I come.",
+        "Big day for the team—go Tigers!",
+        "Retweeting this just because it made me laugh.",
+        "Thank you to everyone who follows—appreciate the support!",
+        "Nothing beats a Louisiana sunset.",
+        "My staff just told me it’s National Donut Day—time to celebrate.",
+        "The Capitol hallways feel emptier this week.",
+        "Can’t believe it’s already August.",
+        "My phone battery didn’t survive today’s hearing."
+      ]
+    }
+  },
+  "output_format": {
+    "type": "object",
+    "fields": {
+      "label": "one of {attack, constituency, information, media, mobilization, personal, policy, support, other, ABSTAIN}",
+      "rationale": "one-to-two sentence explanation of why the label fits",
+      "confidence": "float between 0 and 1 (optional)"
+    }
+  }
+}
